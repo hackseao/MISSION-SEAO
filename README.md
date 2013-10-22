@@ -1,4 +1,3 @@
-Accueil
-=======
+Site du Hackathon MISSION SEAO
 
-Section principale de HACK SEAO
+Pour les chantiers proposés, consultez la section Issues.
